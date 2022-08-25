@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\html\bin\Debug\netcoreapp3.1\html.exe
+C:\Users\ThinkPad\html\bin\Debug\netcoreapp3.1\html.deps.json
+C:\Users\ThinkPad\html\bin\Debug\netcoreapp3.1\html.runtimeconfig.json
+C:\Users\ThinkPad\html\bin\Debug\netcoreapp3.1\html.runtimeconfig.dev.json
+C:\Users\ThinkPad\html\bin\Debug\netcoreapp3.1\html.dll
+C:\Users\ThinkPad\html\bin\Debug\netcoreapp3.1\html.pdb
+C:\Users\ThinkPad\html\obj\Debug\netcoreapp3.1\html.csprojAssemblyReference.cache
+C:\Users\ThinkPad\html\obj\Debug\netcoreapp3.1\html.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\html\obj\Debug\netcoreapp3.1\html.AssemblyInfo.cs
+C:\Users\ThinkPad\html\obj\Debug\netcoreapp3.1\html.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\html\obj\Debug\netcoreapp3.1\html.dll
+C:\Users\ThinkPad\html\obj\Debug\netcoreapp3.1\html.pdb
+C:\Users\ThinkPad\html\obj\Debug\netcoreapp3.1\html.genruntimeconfig.cache
